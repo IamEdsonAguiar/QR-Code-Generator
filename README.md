@@ -1,5 +1,5 @@
-# QRcode-Generator
-A fast qrcode generator.
+# QR Code Generator
+A fast qr code generator.
 
 ## Getting Started with Create React App
 
