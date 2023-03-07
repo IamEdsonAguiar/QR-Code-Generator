@@ -1,6 +1,13 @@
 # QR Code Generator
 A fast and effective qr code generator, version 1.0 .
 
+
+## Description
+
+QR Code Generator 1.0 is a qr code generator, first version made with html, css, and react.
+
+![jp3](https://user-images.githubusercontent.com/106551525/223298503-cd127be3-ecf1-4fce-bd4b-d7e14bd8287c.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,3 +78,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Author
+<a href="mailto:iamedsonaguiar@gmail.com">Edson Aguiar</a>
+
+
